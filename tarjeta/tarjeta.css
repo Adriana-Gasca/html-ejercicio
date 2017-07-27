@@ -1,0 +1,38 @@
+TarjetaPresentacion {
+	font-family: Arial;
+	background-color: #FFDFC7;
+	width: 300px;
+	padding: 10pt;
+	border: 1px solid #352F2B;
+	margin: 5px;
+	text-align: left;
+}
+
+nombre {
+	color: #3C41FF;
+	font-size: 140%;
+	display: block;
+	margin-bottom: 3%;
+}
+
+trabajo {
+	color: #AB00FF;
+	font-size: 100%;
+	display: block;
+	margin-bottom: 3%;
+}
+
+telefono {
+	color: #870011;
+	font-size: 80%;
+	display: block;
+	margin-bottom: 3%;
+}
+
+email {
+	color: #AB00FF;
+	font-size: 90%;
+	display: block;
+	margin-bottom: 3%;
+}
+
