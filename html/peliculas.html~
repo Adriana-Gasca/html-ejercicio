@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+	<head>
+		<!-- Pon un título a tu paginita-->
+		<title>Peliculas</title>
+		<!--Codificación utf-8 -->
+		<meta charset="utf-8">
+		<!-- Scripts -->
+		<link rel="stylesheet" type="text/css" href="./css/estilo.css">
+	</head>
+	<body>
+	<h1>Top 3 películas</h1>
+<img src="https://cdn2.cnet.com/img/zCW6zaGhc0wFOBHBm3ff7wCmQss=/1600x900/2017/08/01/10f99e16-d1f5-4d4e-800e-b1e82527b7ad/avengers.jpg" width="450px" height="250px" /> 	
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Género</th>
+    <th>Director</th>
+    <th>link</th>
+  </tr>
+  
+  <tr>
+    <td>Avengers</td>
+    <td>Acción</td>
+    <td>Joss Whedon</td>
+    <td>
+      <a href="https://es.wikipedia.org/wiki/The_Avengers_(pel%C3%ADcula_de_2012)#Argumento">Sinopsis</a>
+    </td>
+  </tr>
+  <td>La Sirenita</td>
+    <td>Animada</td>
+    <td>Ron Clements</td>
+    <td>
+      <a href="http://www.sensacine.com/peliculas/pelicula-18115"/>Sinopsis</a>
+    </td>
+  <tr>
+  <td>Divergente</td>
+    <td>Ciencia Ficción</td>
+    <td> Neil Burger</td>
+    <td>
+      <a href="https://es.wikipedia.org/wiki/Divergente_(pel%C3%ADcula)#Argumento"/>Sinopsis</a> 
+    </tr>
+  <tr>
+    <td>Hush Hush</td>
+    <td>Triller Literario</td>
+    <td>Kellie Cyrus</td>
+    <td>
+      <a href="http://quelibroleo.com/hush-hush"/>Sinopsis</a>
+     </tr>
+     
+  </table>
+	</body>
+</html>
+	
+	
